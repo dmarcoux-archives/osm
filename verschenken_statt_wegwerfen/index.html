@@ -28,8 +28,15 @@
           features: (new ol.format.GeoJSON({ "featureProjection": 'EPSG:3857' })).readFeatures(json)
         });
 
+        var iconStyle = new ol.style.Style({
+          image: new ol.style.Icon({
+            src: 'blue-marker.svg'
+          })
+        });
+
         var vectorLayer = new ol.layer.Vector({
-          source: vectorSource
+          source: vectorSource,
+          style: iconStyle
         });
 
         var map = new ol.Map({
