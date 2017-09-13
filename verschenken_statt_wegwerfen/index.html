@@ -20,6 +20,11 @@
         padding: 10px;
       }
 
+      .arrow_box a {
+        text-decoration-line: none;
+        color: #292724;
+      }
+
       .arrow_box:after, .arrow_box:before {
         top: 100%;
         left: 50%;
@@ -108,14 +113,13 @@
             // Fetch feature information
             feature = e.target.getFeatures().item(0);
             // Setup popup
-            popup.getElement().innerHTML = feature.get('title');
+            popup.getElement().innerHTML = '<a href=\"' + feature.get('href') + '\" target="new">' + feature.get('title') + '</a>';
             console.log(feature.getGeometry().getCoordinates());
             popup.setPosition(feature.getGeometry().getCoordinates());
-//            console.log(feature.get('href'));
 //            console.log(feature.get('description'));
 //            console.log(feature.get('data'));
           } else {
-            // Close popup
+            // Hide popup
             popup.setPosition();
           }
         });
