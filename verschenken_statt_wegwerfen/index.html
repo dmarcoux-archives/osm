@@ -61,7 +61,10 @@
 
         var iconStyle = new ol.style.Style({
           image: new ol.style.Icon({
-            src: 'blue-marker.svg'
+            src: 'blue-marker.svg',
+            anchor: [0.5, 21],
+            anchorXUnits: 'fraction',
+            anchorYUnits: 'pixels',
           })
         });
 
@@ -85,7 +88,7 @@
           })
         });
 
-        var overlay = new ol.Overlay({
+        var popup = new ol.Overlay({
           element: document.getElementById('popup-container'),
           positioning: 'bottom-center',
           // Set y offset to compensate for the arrow size of the popup
@@ -93,21 +96,27 @@
           stopEvent: false
         });
 
-        map.addOverlay(overlay);
+        map.addOverlay(popup);
 
-        var selectInteraction = new ol.interaction.Select({ condition: ol.events.condition.click });
+        var selectInteraction = new ol.interaction.Select({
+          condition: ol.events.condition.click,
+          style: iconStyle,
+          hitTolerance: 10 // This could be tweaked once I figure out why the popup is sometimes right on spot and sometimes off a few pixels to the left...
+        });
         selectInteraction.on('select', function(e) {
           if (e.selected.length > 0) {
-            // Open popup
+            // Fetch feature information
             feature = e.target.getFeatures().item(0);
-            overlay.getElement().innerHTML = feature.get('title');
-            overlay.setPosition(feature.getGeometry().getCoordinates());
+            // Setup popup
+            popup.getElement().innerHTML = feature.get('title');
+            console.log(feature.getGeometry().getCoordinates());
+            popup.setPosition(feature.getGeometry().getCoordinates());
 //            console.log(feature.get('href'));
 //            console.log(feature.get('description'));
 //            console.log(feature.get('data'));
           } else {
             // Close popup
-            overlay.setPosition();
+            popup.setPosition();
           }
         });
         map.addInteraction(selectInteraction);
