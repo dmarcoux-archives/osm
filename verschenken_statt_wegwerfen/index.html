@@ -22,12 +22,10 @@
     <script type="text/javascript">
       $.getJSON("data.json", function(json) {
         console.log(json);
-        console.log(json.features);
-        console.log(json.features.map(function(el) { return el.geometry; }));
 
         var vectorSource = new ol.source.Vector({
-          features: (new ol.format.GeoJSON()).readFeatures(json)
-          // features: (new ol.format.GeoJSON()).readFeatures(json.features.map(function(el) { return el.geometry; }))
+          // Converting the EPSG:4326 (WGS84) to EPSG:3857
+          features: (new ol.format.GeoJSON({ "featureProjection": 'EPSG:3857' })).readFeatures(json)
         });
 
         var vectorLayer = new ol.layer.Vector({
@@ -43,8 +41,9 @@
             vectorLayer
           ],
           view: new ol.View({
-            center: ol.proj.fromLonLat([37.41, 8.82]),
-            zoom: 4
+            // Centering on Berlin, DE
+            center: [1490436.059904, 6894146.997210],
+            zoom: 13
           })
         });
       });
