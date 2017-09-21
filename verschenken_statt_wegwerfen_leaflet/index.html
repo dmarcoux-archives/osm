@@ -33,6 +33,7 @@
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
+        // The GeoJSON is using EPSG:4326, which is the expected projection
         L.geoJSON(json, {
           onEachFeature: function(feature, layer) {
             layer.bindPopup('<a href=\"' + feature.properties.href + '\" target="new">' + feature.properties.title + '</a>');
