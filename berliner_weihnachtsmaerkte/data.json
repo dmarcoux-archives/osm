@@ -1,0 +1,564 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.295946, 52.519951]
+    },
+    "properties": {
+      "title": "1",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/1",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/1\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/1",
+      "data": {
+        "id": "1",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Weihnachtsmarkt vor dem Schloss Charlottenburg",
+        "strasse": "Spandauer Damm 20 - 24",
+        "plz_ort": "14059 Berlin",
+        "veranstalter": "werbeteam berlin\/Tommy Erbe\r\nTel.: 261 20 12, Fax: 261 20 22",
+        "von": "2016-11-21",
+        "bis": "2016-12-26",
+        "oeffnungszeiten": "Mo-Do 14:00-22:00\r\nFr-So 12:00-22:00\r\n25.\/26.12. 12:00-20:00",
+        "email": "mailto:info@werbeteam-berlin.de",
+        "w3": "www.werbeteam-berlin.de",
+        "bemerkungen": "zwischen Luisenplatz und Klausenerplatz, 24.12. geschlossen\nWeitere Informationen auf der Webseite",
+        "lat": "52,519951",
+        "lng": "13,295946"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.335511, 52.504886]
+    },
+    "properties": {
+      "title": "3",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/3",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/3\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/3",
+      "data": {
+        "id": "3",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "33. Weihnachtsmarkt an der Ged\u00e4chtniskirche",
+        "strasse": "Breitscheidplatz ",
+        "plz_ort": "10789 Berlin",
+        "veranstalter": "Arbeitsgemeinschaft City e.V.\r\nBudapester Str. 41\r\nTel.: 262 95 92, Fax: 262 95 93\r\nSchaustellerverband Berlin e.V.\r\nwww.schaustellerverband-berlin.de",
+        "von": "2016-11-21",
+        "bis": "2017-01-01",
+        "oeffnungszeiten": "So-Do 11:00-21:00\r\nFr-Sa 11:00-22:00\r\n24.12. 11:00-14:00\r\n25.\/26.12. 13:00-21:00\r\n31.12. 11:00-01:00\r\n01.01. 13:00-21:00",
+        "email": "mailto:info@svbev.de",
+        "w3": "www.agcity.de",
+        "bemerkungen": "Eintritt frei\nWeitere Informationen auf der Webseite",
+        "lat": "52,504886",
+        "lng": "13,335511"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.305994, 52.509313]
+    },
+    "properties": {
+      "title": "5",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/5",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/5\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/5",
+      "data": {
+        "id": "5",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Weihnachtsmarkt in der Fu\u00dfg\u00e4ngerzone Wilmersdorfer Stra\u00dfe",
+        "strasse": "Wilmersdorfer Stra\u00dfe",
+        "plz_ort": "10627 Berlin",
+        "veranstalter": "Lauenburger, A., Tel.: 0163\/495 77 62",
+        "von": "2016-11-25",
+        "bis": "2016-12-29",
+        "oeffnungszeiten": "Mo-Fr 11:00-21:00\r\nSa 10:00-21:00\r\nSo 12:00-19:00\r\n24.12. 10:00-14:00\r\n25.\/26.12. geschlossen",
+        "email": "mailto:lauenburger-pony@gmx.de",
+        "w3": "www.wilmersdorfer-arcaden.de",
+        "bemerkungen": "  Weitere Informationen auf der Webseite",
+        "lat": "52,509313",
+        "lng": "13,305994"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.259213, 52.512538]
+    },
+    "properties": {
+      "title": "7",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/7",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/7\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/7",
+      "data": {
+        "id": "7",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Weihnachten in Westend",
+        "strasse": "Preu\u00dfenallee",
+        "plz_ort": "14052 Berlin",
+        "veranstalter": "Family & Friends e. V.\r\nTel. und Fax: 305 55 21",
+        "von": "2016-12-17",
+        "bis": "2016-12-18",
+        "oeffnungszeiten": "11:00-20:00",
+        "email": "mailto:kontakt@family-and-friends-eV.de",
+        "w3": "www.family-and-friends-eV.de",
+        "bemerkungen": "Eintritt frei, \nWeitere Informationen auf der Webseite",
+        "lat": "52,512538",
+        "lng": "13,259213"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.27725, 52.48835]
+    },
+    "properties": {
+      "title": "9",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/9",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/9\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/9",
+      "data": {
+        "id": "9",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Weihnachtsmarkt Berlin-Grunewald des Johannischen Sozialwerks e. V. im St.-Michaels-Heim",
+        "strasse": "Bismarckallee 23",
+        "plz_ort": "14193 Berlin",
+        "veranstalter": "Johannisches Sozialwerk e.V.\r\nTel.: 89 68 80, Fax: 89 68 81 85",
+        "von": "2016-11-25",
+        "bis": "2016-11-27",
+        "oeffnungszeiten": "Fr 16:00-20:00\r\nSa 14:00-20:00\r\nSo 12:00-18:00",
+        "email": "",
+        "w3": "www.johannisches-sozialwerk.de",
+        "bemerkungen": "Weitere Informationen auf der Webseite",
+        "lat": "52,48835",
+        "lng": "13,27725"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.3287, 52.4874]
+    },
+    "properties": {
+      "title": "11",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/11",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/11\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/11",
+      "data": {
+        "id": "11",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Schwedischer Weihnachtsbasar",
+        "strasse": "Landhausstr. 26",
+        "plz_ort": "10717 Berlin",
+        "veranstalter": "Schwedische Victoriagemeinde\r\nTel.: 864 95 90, Fax: 86 49 59 99",
+        "von": "2016-11-26",
+        "bis": "2016-11-27",
+        "oeffnungszeiten": "Sa 10:00-19:00\r\nSo 12:00-18:00",
+        "email": "mailto:berlin@svenskakyrkan.se",
+        "w3": "www.svenskakyrkan.se",
+        "bemerkungen": "Die Lichterk\u00f6nigin Lucia kommt an beiden Tagen zweimal am Nachmittag",
+        "lat": "52,4874",
+        "lng": "13,3287"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.31249, 52.48809]
+    },
+    "properties": {
+      "title": "13",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/13",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/13\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/13",
+      "data": {
+        "id": "13",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "D\u00e4nischer Weihnachtsmarkt",
+        "strasse": "Brienner Str. 12",
+        "plz_ort": "10713 Berlin",
+        "veranstalter": "D\u00e4nische Gemeinde Berlin\r\nTel. und Fax: 873 44 30",
+        "von": "2016-11-26",
+        "bis": "2016-11-27",
+        "oeffnungszeiten": "Sa 12:00-19:00\r\nSo 12:00-18:00",
+        "email": "",
+        "w3": "www.christianskirken.de",
+        "bemerkungen": "",
+        "lat": "52,48809",
+        "lng": "13,31249"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.27483, 52.48543]
+    },
+    "properties": {
+      "title": "15",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/15",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/15\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/15",
+      "data": {
+        "id": "15",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Weihnachtsmarkt rund um die Grunewaldkirche",
+        "strasse": "Bismarckallee 28 B",
+        "plz_ort": "14193 Berlin",
+        "veranstalter": "Evangelische Kirchengemeinde Grunewald, Kontakt: Petra Kr\u00fcger, Claudia Noll\r\n, AB\/Fax: 23 25 83 02",
+        "von": "2016-11-27",
+        "bis": "2016-11-27",
+        "oeffnungszeiten": "11:00-19:00",
+        "email": "mailto:weihnachtsmarkt@grunewaldgemeinde.de",
+        "w3": "www.grunewaldgemeinde.de",
+        "bemerkungen": "Weitere Informationen auf der Webseite",
+        "lat": "52,48543",
+        "lng": "13,27483"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.30807, 52.517122]
+    },
+    "properties": {
+      "title": "17",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/17",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/17\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/17",
+      "data": {
+        "id": "17",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Nikolausmarkt der Besch\u00e4ftigungs- und Bildungstr\u00e4ger im Rathaus Charlottenburg",
+        "strasse": "Otto-Suhr-Allee 100",
+        "plz_ort": "10585 Berlin",
+        "veranstalter": "BA Charlottenburg-Wilmersdorf von Berlin\r\nAbt. Soziales + Gesundheit\r\nTel.: 902 91 43 04",
+        "von": "2016-11-24",
+        "bis": "2016-11-24",
+        "oeffnungszeiten": "11:00-14:00",
+        "email": "mailto:cw801003@charlottenburg-wilmersdorf.de",
+        "w3": "",
+        "bemerkungen": "",
+        "lat": "52,517122",
+        "lng": "13,30807"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.25837, 52.51243]
+    },
+    "properties": {
+      "title": "19",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/19",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/19\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/19",
+      "data": {
+        "id": "19",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Christmas Fair \/ A very British Christmas",
+        "strasse": "Preu\u00dfenallee 17-19",
+        "plz_ort": "14052 Berlin",
+        "veranstalter": "St George's Church, Preu\u00dfenallee 17-19, 14052 Berlin, Tel. und Fax: 304 12 80",
+        "von": "2016-12-03",
+        "bis": "2016-12-03",
+        "oeffnungszeiten": "14:30-18:00",
+        "email": "mailto:office@stgeorges.de",
+        "w3": "www.stgeorges.de",
+        "bemerkungen": "",
+        "lat": "52,51243",
+        "lng": "13,25837"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.295796, 52.518946]
+    },
+    "properties": {
+      "title": "21",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/21",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/21\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/21",
+      "data": {
+        "id": "21",
+        "bezirk": "Charlottenburg-Wilmersdorf",
+        "name": "Kunsthandwerklicher Weihnachtsmarkt vor dem Br\u00f6hanmuseum",
+        "strasse": "Schlo\u00dfstr. 1\/1 A",
+        "plz_ort": "14059 Berlin",
+        "veranstalter": "Kiezb\u00fcndnis Klausenerplatz e.V.\r\nTel.: 30 82 44 95, Fax: 30 82 44 98",
+        "von": "2016-12-11",
+        "bis": "2016-12-11",
+        "oeffnungszeiten": "13:00-19:00",
+        "email": "mailto:info@klausenerplatz.de",
+        "w3": "www.klausenerplatz.de",
+        "bemerkungen": "",
+        "lat": "52,518946",
+        "lng": "13,295796"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.39731, 52.48965]
+    },
+    "properties": {
+      "title": "23",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/23",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/23\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/23",
+      "data": {
+        "id": "23",
+        "bezirk": "Friedrichshain-Kreuzberg",
+        "name": "Traditioneller Weihnachtsbasar im Finnland-Zentrum",
+        "strasse": "Schleiermacherstr. 24a",
+        "plz_ort": "10961 Berlin",
+        "veranstalter": "Suomi Keskus - Finnlandzentrum e. V., Schleiermacherstr. 24a, 10961 Berlin, Tel.: 781 81 89",
+        "von": "2016-11-19",
+        "bis": "2016-11-20",
+        "oeffnungszeiten": "12:00-18:00",
+        "email": "mailto:info@finnlandzentrum.de",
+        "w3": "www.finnlandzentrum.de",
+        "bemerkungen": "",
+        "lat": "52,48965",
+        "lng": "13,39731"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.39575, 52.49652]
+    },
+    "properties": {
+      "title": "25",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/25",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/25\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/25",
+      "data": {
+        "id": "25",
+        "bezirk": "Friedrichshain-Kreuzberg",
+        "name": "Adventlicher Nachmittag in der Passionskirche",
+        "strasse": "Marheinekeplatz 1",
+        "plz_ort": "10961 Berlin",
+        "veranstalter": "Evangelische Kirchengemeinde Heilig Kreuz - Passion, Zossener Str. 65, 10961 Berlin, Tel.: 81 49 25 82 od. 691 20 07",
+        "von": "2016-11-27",
+        "bis": "2016-11-27",
+        "oeffnungszeiten": "15:00-18:00",
+        "email": "mailto:m.schmieder@heiligkreuzpassion.de",
+        "w3": "www.heiligkreuzpassion.de",
+        "bemerkungen": "",
+        "lat": "52,49652",
+        "lng": "13,39575"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.46609, 52.51766]
+    },
+    "properties": {
+      "title": "27",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/27",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/27\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/27",
+      "data": {
+        "id": "27",
+        "bezirk": "Friedrichshain-Kreuzberg",
+        "name": "11. KiezWeihnacht an der Samariterkirche\/Samariterplatz",
+        "strasse": "Samariterstr. 14",
+        "plz_ort": "10247 Berlin",
+        "veranstalter": "Samariter-Galil\u00e4a-Gemeinde und Die Friedrichshainer \r\nKontakt: Steffen Belz, Eisenbahnstr. 191, 14542 Werder (Havel),    \r\nTel.: 74 77 26 01",
+        "von": "0000-00-00",
+        "bis": "0000-00-00",
+        "oeffnungszeiten": "13:00-20:00",
+        "email": "",
+        "w3": "www.kiezweihnacht.de",
+        "bemerkungen": "NUR an den Wochenenden",
+        "lat": "52,51766",
+        "lng": "13,46609"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.45436119, 52.5076327]
+    },
+    "properties": {
+      "title": "199",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/199",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/199\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/199",
+      "data": {
+        "id": "199",
+        "bezirk": "Friedrichshain-Kreuzberg",
+        "name": "Erstmalig in diesem Jahr!\n\"Historische Weihnacht\" in Berlin",
+        "strasse": "Revaler Stra\u00dfe",
+        "plz_ort": "10245 Berlin",
+        "veranstalter": "Carnica-Veranstaltungen",
+        "von": "2016-11-25",
+        "bis": "2016-12-22",
+        "oeffnungszeiten": "Mo-Do 14:00-22:00\r\nFr-Sa 12:00-22:00\r\nSo 12:00-19:00",
+        "email": "mailto:veranstaltungen@carnica.de",
+        "w3": "www.carnica-spectaculi.de",
+        "bemerkungen": "",
+        "lat": "52,5076327",
+        "lng": "13,45436119"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.479572, 52.515918]
+    },
+    "properties": {
+      "title": "29",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/29",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/29\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/29",
+      "data": {
+        "id": "29",
+        "bezirk": "Lichtenberg",
+        "name": "23. Lichtenberger Lichtermarkt rund ums Rathaus Lichtenberg",
+        "strasse": "M\u00f6llendorffstr. 6",
+        "plz_ort": "10367 Berlin",
+        "veranstalter": "BA Lichtenberg\r\nFrau R\u00e4pricht\r\nTel.: 902 96 82 05",
+        "von": "2016-11-27",
+        "bis": "2016-11-27",
+        "oeffnungszeiten": "13:00-19:00",
+        "email": "mailto:jacqueline.raepricht@lichtenberg.berlin.de",
+        "w3": "",
+        "bemerkungen": "",
+        "lat": "52,515918",
+        "lng": "13,479572"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.52774, 52.48282]
+    },
+    "properties": {
+      "title": "31",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/31",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/31\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/31",
+      "data": {
+        "id": "31",
+        "bezirk": "Lichtenberg",
+        "name": "\"Die Welt zuhause in Karlshorst\" auf dem Johannes-Fest-Platz Karlshorst",
+        "strasse": "Johannes-Fest-Platz",
+        "plz_ort": "10318 Berlin",
+        "veranstalter": "iKARUS stadtteilzentrum\r\nTel.: 89 62 25 52",
+        "von": "2016-12-03",
+        "bis": "2016-12-04",
+        "oeffnungszeiten": "Sa 13:00-22:00\r\nSo 13:00-18:00",
+        "email": "mailto:ikarus@sozdia.de",
+        "w3": "www.ikarus.sozdia.de",
+        "bemerkungen": "",
+        "lat": "52,48282",
+        "lng": "13,52774"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.60488, 52.53749]
+    },
+    "properties": {
+      "title": "33",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/33",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/33\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/33",
+      "data": {
+        "id": "33",
+        "bezirk": "Marzahn-Hellersdorf",
+        "name": "Weihnachtsmarkt im Marktplatz Center Hellersdorf",
+        "strasse": "Stendaler Str. 24",
+        "plz_ort": "12627 Berlin",
+        "veranstalter": "Werbegemeinschaft Marktplatz Center Hellersdorf GbR,\nTel.: 99 28 84 - 0, \r\nFax: 992 88 42 50",
+        "von": "2016-11-21",
+        "bis": "2016-12-24",
+        "oeffnungszeiten": "Mo-Sa 10:00-20:00\r\n04.12.\/18.12. 13:00-18:00\r\n24.12. 09:00-14:00",
+        "email": "",
+        "w3": "www.marktplatzcenter.com\/",
+        "bemerkungen": "",
+        "lat": "52,53749",
+        "lng": "13,60488"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.54264, 52.54282]
+    },
+    "properties": {
+      "title": "35",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/35",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/35\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/35",
+      "data": {
+        "id": "35",
+        "bezirk": "Marzahn-Hellersdorf",
+        "name": "Weihnachtliche Aktionen im EASTGATE Berlin",
+        "strasse": "Marzahner Promenade 1 A",
+        "plz_ort": "12679 Berlin",
+        "veranstalter": "ECE Projektmanagement GmbH & Co. KG\r\nTel.: 911 45 90, Fax: 911 45 91 11",
+        "von": "2016-11-21",
+        "bis": "2016-12-24",
+        "oeffnungszeiten": "Mo-Sa 10:00-20:00\r\n04.12.\/18.12. 13:00-19:00\r\n24.12. 10:00-14:00",
+        "email": "mailto:info@eastgate-berlin.de",
+        "w3": "www.eastgate-berlin.de",
+        "bemerkungen": "",
+        "lat": "52,54282",
+        "lng": "13,54264"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.604357, 52.537131]
+    },
+    "properties": {
+      "title": "37",
+      "href": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/37",
+      "description": " <a href=\"https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/37\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/sen\/wirtschaft\/service\/maerkte-feste\/weihnachtsmaerkte\/index.php\/detail\/37",
+      "data": {
+        "id": "37",
+        "bezirk": "Marzahn-Hellersdorf",
+        "name": "3. Familien-Weihnachtsmarkt",
+        "strasse": "Alice-Salomon-Platz",
+        "plz_ort": "12627 Berlin",
+        "veranstalter": "Wollenschlaeger, Thilo-Harry\r\nTel.: 0163\/400 05 00 und 03322\/428 82 45\r\nFax: 03322\/423 41 39",
+        "von": "2016-11-25",
+        "bis": "2016-12-23",
+        "oeffnungszeiten": "t\u00e4glich 11:00-21:00",
+        "email": "mailto:info@wollenschlaeger-berlin.de",
+        "w3": "www.wollenschlaeger-berlin.de",
+        "bemerkungen": "",
+        "lat": "52,537131",
+        "lng": "13,604357"
+      }
+    }
+  }]
+}
