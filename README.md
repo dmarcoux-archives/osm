@@ -4,8 +4,10 @@ Experimenting with OpenStreetMap and Open Data.
 
 ### Live Demo
 
-- [Verschenken statt Wegwerfen (OpenLayers)](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_openlayers)
-- [Verschenken statt Wegwerfen (Leaflet)](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_leaflet)
+- Verschenken statt Wegwerfen with
+  [OpenLayers](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_openlayers) or
+  [Leaflet](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_leaflet).
+  Data from [Berlin Open Data](http://daten.berlin.de/datensaetze/verschenken-statt-wegwerfen)
 
 ### Development
 
