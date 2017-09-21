@@ -1,0 +1,220 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.4439, 52.47561]
+    },
+    "properties": {
+      "title": "Berliner B\u00fcchertisch",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/23",
+      "description": " Richardstr. 83<br \/>12043<br \/>Kreuzberg<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/23\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/23",
+      "data": {
+        "id": "23",
+        "_wgs84_lat": "52.47561",
+        "_wgs84_lon": "13.4439",
+        "name": "Berliner B\u00fcchertisch",
+        "gueter": "Der Berliner B\u00fcchertisch sammelt seit 2005 in Berlin gebrauchte B\u00fccher, LPs, CDs, DVDs und Brettspiele. \u00dcber verschiedene Lesef\u00f6rderprojekte wird ein Teil der Spenden an Einrichtungen (Schulbibliotheken, wissenschaftliche Einrichtungen, Vereine \u2026) oder an sozial benachteiligte Kinder weitergegeben. Ein Teil der Medien wird in unseren zwei L\u00e4den (Gneisenaustr. 7a, Kreuzberg und W\u00fchlischstr. 40, Friedrichshain) und Online verkauft. ",
+        "transport": "kostenlose Abholung nach Absprache",
+        "anschrift": "Berliner B\u00fcchertisch eG,  Buchannahme: Richardstr. 83 \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=12043&ADR_STREET=Richardstr%2083  \/ 12043 Berlin \/ \u00d6ffnungszeiten Mo bis Sa: 10.00 bis 16.00 Uhr \/ Buchabholung: Tel. 61 20 99 96 \/ E-Mail: \"buchspende@buechertisch.org\":mailto:buchspende@buechertisch.org \/ \"www.buechertisch.org\":http:\/\/www.buechertisch.org",
+        "adresse": " Richardstr. 83",
+        "plz": "12043",
+        "bezirk": "Kreuzberg"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.316922, 52.534313]
+    },
+    "properties": {
+      "title": "Berliner Tafel e.V.",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/31",
+      "description": "Beusselstr. 44 N - Q Halle 102<br \/>10553<br \/>Mitte<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/31\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/31",
+      "data": {
+        "id": "31",
+        "_wgs84_lat": "52.534313",
+        "_wgs84_lon": "13.316922",
+        "name": "Berliner Tafel e.V.",
+        "gueter": "In erster Linie geht es der Berliner Tafel um Lebensmittelspenden. Alles was Sie zu viel geordert haben, was kurz vor Ablauf aussortiert wird oder was als Saisonartikel im Weg ist \u2013 die Berliner Tafel holt es gern ab.",
+        "transport": "Die Berliner Tafel holt gern ab, was Sie spenden wollen. Bitte einige Tage vorher Termine vereinbaren.",
+        "anschrift": "Berliner Tafel e.?V. \/ Beusselstr. 44 N-Q Halle 102 \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=10553&ADR_STREET=Beusselstr%2044N-Q  \/ 10553 Berlin \/ Telefon 030 782 74 14 \/ Telefax 030 788 19 73 \/ E-Mail: \"ber.ta@berliner-tafel.de\":mailto:ber.ta@berliner-tafel.de \/ Internet: \"Berliner Tafel\":http:\/\/www.berliner-tafel.de\/berliner-tafel\/helfen\/sachspenden\/und-so-funktionierts\/",
+        "adresse": "Beusselstr. 44 N - Q Halle 102",
+        "plz": "10553",
+        "bezirk": "Mitte"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.45674, 52.47965]
+    },
+    "properties": {
+      "title": "Besch\u00e4ftigungsagentur Berlin Brandenburg e.V.",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/39",
+      "description": "Teupitzer Str. 38<br \/>12059<br \/>Neuk\u00f6lln<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/39\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/39",
+      "data": {
+        "id": "39",
+        "_wgs84_lat": "52.47965",
+        "_wgs84_lon": "13.45674",
+        "name": "Besch\u00e4ftigungsagentur Berlin Brandenburg e.V.",
+        "gueter": "Fahrr\u00e4der und Fahrradteile, Gartenger\u00e4te \/ verkehrst\u00fcchtige Instandsetzung der Fahrr\u00e4der, Weitergabe an Bed\u00fcrftige gegen Schutzgeb\u00fchr von 20 Euro",
+        "transport": "kostenlose Abholung der Spenden bei gr\u00f6\u00dferem Umfang",
+        "anschrift": "Besch\u00e4ftigungsagentur Berlin Brandenburg e.V. \/ Teupitzer Str. 38 \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=12059&ADR_STREET=Teupitzer%20Str.%2038  \/ 12059 Berlin \/   \/ Telefon: 030 \/ 632 25 177 \/ Fax: 030 \/ 68 081 627 \/ E-Mail: \"info@babb-ev.de\":mailto:info@babb-ev.de \/ Internet: \"www.babb-ev.de\":http:\/\/www.babb-ev.de \/ Mo-Fr 8:30 - 14:00",
+        "adresse": "Teupitzer Str. 38",
+        "plz": "12059",
+        "bezirk": "Neuk\u00f6lln"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.43696, 52.47826]
+    },
+    "properties": {
+      "title": "BIGHELP e.V.",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/11",
+      "description": "Briesestr. 6<br \/>12053<br \/>Neuk\u00f6lln<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/11\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/11",
+      "data": {
+        "id": "11",
+        "_wgs84_lat": "52.47826",
+        "_wgs84_lon": "13.43696",
+        "name": "BIGHELP e.V.",
+        "gueter": "Computer ab Pentium 1  \/ Software mit Lizenz wie z.B. Original Microsoft Windows Betriebssystem \/ Treiber CDs usw. \/ Wir werden gemeinsam mit technikinteressierten Menschen defekte und ausrangierte Computer reparieren. Die dann wieder betriebsbereiten PCs werden gemeinn\u00fctzigen Organisationen \u00fcberlassen oder an bed\u00fcrftige Menschen verschenkt.",
+        "transport": "Gr\u00f6\u00dfere St\u00fcckzahlen holen wir pers\u00f6nlich ab.",
+        "anschrift": "BIGHELP e.V. \/ Briesestr. 6 \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=12053&ADR_STREET=Briesestr.%206  \/ 12053 Berlin-Neuk\u00f6lln \/ Projektleiter: Herr Makinist \/ Telefon: 810 18 522 \/ Handy: (01 60) 120 59 20 \/ E-Mail: \"bighelpberlin@googlemail.com\":mailto:bighelpberlin@googlemail.com \/ Internet: \"www.bighelp.de\":http:\/\/www.bighelp.de\/",
+        "adresse": "Briesestr. 6",
+        "plz": "12053",
+        "bezirk": "Neuk\u00f6lln"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.45393, 52.53548]
+    },
+    "properties": {
+      "title": "Mehrere Eintr\u00e4ge...",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/43",
+      "description": "<strong>Chance-Bildung, Jugend und Sport BJS gGmbH<\/strong><br \/>Storkower Str.115a<br \/>10407<br \/>Pankow<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/43\">Mehr...<\/a><br \/><br \/><strong>Die Chance-Verein f\u00fcr Bildung, Integration und Soziales e.V.<\/strong><br \/>Storkower Str.115a <br \/>10407<br \/>Pankow<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/45\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/43",
+      "data": {
+        "id": "43",
+        "_wgs84_lat": "52.53548",
+        "_wgs84_lon": "13.45393",
+        "name": "Chance-Bildung, Jugend und Sport BJS gGmbH",
+        "gueter": "Bekleidung, Schuhe, Brillen, Taschen, Hausrat, B\u00fccher, Elektrokleinger\u00e4te, Heimtextilien-alles in sauberem Zustand",
+        "transport": "Entgegennahme (Mo.-Fr.,9\u00b0\u00b0-14\u00b0\u00b0) oder Abholung nach Absprache, Aufbereitung und kostenlose Weitergabe an Bed\u00fcrftige mit Nachweis (\"Berlinpass\":\/sen\/soziales\/sicherung\/berlinpass\/, Hartz IV, Grundsicherung, Asyl)",
+        "anschrift": "Chance-Bildung, Jugend und Sport BJS gGmbH \/ Storkower Str.115a \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=10407&ADR_STREET=Storkower%20Str.%20115a  \/ 10407 Berlin \/ Gemeinn\u00fctzige Projekte, unterst\u00fctzt durch Jobcenter Lichtenberg und Pankow \/ Tel.: 030-60940162 \/ Fax: 030-60940165 \/ Email: \"r.vey@chance-berlin.com\":mailto:r.vey@chance-berlin.com",
+        "adresse": "Storkower Str.115a",
+        "plz": "10407",
+        "bezirk": "Pankow"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.39079, 52.50358]
+    },
+    "properties": {
+      "title": "Der Motzladen - motz-Gebrauchtwarenkaufhaus",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/17",
+      "description": "Friedrichstra\u00dfe 226<br \/>10969<br \/>Kreuzberg<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/17\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/17",
+      "data": {
+        "id": "17",
+        "_wgs84_lat": "52.50358",
+        "_wgs84_lon": "13.39079",
+        "name": "Der Motzladen - motz-Gebrauchtwarenkaufhaus",
+        "gueter": "Kleidung, B\u00fccher, Hausrat, Elektroger\u00e4te, M\u00f6bel. \/ Verkauf der gespendeten Waren an bed\u00fcrftige Mitb\u00fcrger zu einem Drittel der \u00fcblichen Flohmarktpreise, Kauf nur mit \"Berlinpass\":\/sen\/soziales\/sicherung\/berlinpass\/ m\u00f6glich",
+        "transport": "Spenden bitte telefonisch anbieten, w\u00f6chentliche Abholung mit einem LKW aus allen Bezirken m\u00f6glich, auch bei Wohnungsentr\u00fcmpelungen",
+        "anschrift": "Der Motzladen (U-Bahn Kochstra\u00dfe)  \/ Friedrichstra\u00dfe 226 \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=10969&ADR_STREET=Friedrichstr.%20226  \/ 10969 Berlin \/ werktags von 10 bis 19 Uhr ge\u00f6ffnet, an Sonnabenden von 10 bis 16 Uhr \/ \"www.motz-berlin.de\":http:\/\/www.motz-berlin.de\/motz-der_Laden.php",
+        "adresse": "Friedrichstra\u00dfe 226",
+        "plz": "10969",
+        "bezirk": "Kreuzberg"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.3281, 52.47424]
+    },
+    "properties": {
+      "title": "Deutsches Rotes Kreuz Berlin DRK Berlin e.V.",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/33",
+      "description": "Bundesallee 73<br \/>12161<br \/>Berlinweit<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/33\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/33",
+      "data": {
+        "id": "33",
+        "_wgs84_lat": "52.47424",
+        "_wgs84_lon": "13.3281",
+        "name": "Deutsches Rotes Kreuz Berlin DRK Berlin e.V.",
+        "gueter": "Kleider und M\u00f6bel werden gerne weiter vermittelt.",
+        "transport": "Kleidersammelcontainer finden Sie im gesamten Stadtgebiet. Standortauskunft: 85 00 50 \/ Wir holen Ihre Kleiderspenden auch ab. Rufen Sie uns an: 852 76 90. \/ M\u00f6belspenden nimmt unser \"FairKaufhaus in Spandau\":http:\/\/www.fairkaufhaus.de\/ dankend entgegen.",
+        "anschrift": "Internet: \"Spendenannahmestellen in den Bezirken\":http:\/\/drk-berlin.de\/spenden-helfen\/sachspenden.html",
+        "adresse": "Bundesallee 73",
+        "plz": "12161",
+        "bezirk": "Berlinweit"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.3189, 52.49282]
+    },
+    "properties": {
+      "title": "Fahrradwerkstatt des Techn. Jugendfreizeit- und Bildungsvereins e.V.",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/7",
+      "description": "Emser Str. 52<br \/>10719<br \/>Wilmersdorf<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/7\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/7",
+      "data": {
+        "id": "7",
+        "_wgs84_lat": "52.49282",
+        "_wgs84_lon": "13.3189",
+        "name": "Fahrradwerkstatt des Techn. Jugendfreizeit- und Bildungsvereins e.V.",
+        "gueter": "Fahrr\u00e4der werden entgegengenommen und ausgearbeitet, um bed\u00fcrftigen Kindern und Jugendlichen zur Verf\u00fcgung gestellt zu werden.",
+        "transport": "Spendenannahme in der Emser Stra\u00dfe 52",
+        "anschrift": "Technischer Jugendfreizeit- und Bildungsverein e.V. \/ Hans-Dieter Lamprecht \/ Emser Str. 52  \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=10719&ADR_STREET=Emser%20Str.%2052  \/ 10719 Berlin \/ Tel. 84 71 59 07",
+        "adresse": "Emser Str. 52",
+        "plz": "10719",
+        "bezirk": "Wilmersdorf"
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [13.39495, 52.56571]
+    },
+    "properties": {
+      "title": "Franziskaner Kloster",
+      "href": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/1",
+      "description": "Wollankstr. 19<br \/>13187<br \/>Pankow<br \/> <a href=\"https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/1\">Mehr...<\/a>",
+      "id": "https:\/\/www.berlin.de\/umwelt\/themen\/abfall\/verschenken-statt-wegwerfen\/index.php\/detail\/1",
+      "data": {
+        "id": "1",
+        "_wgs84_lat": "52.56571",
+        "_wgs84_lon": "13.39495",
+        "name": "Franziskaner Kloster",
+        "gueter": "Bekleidung",
+        "transport": "nimmt nur entgegen und vermittelt weiter an Bed\u00fcrftige",
+        "anschrift": "Franziskaner Kloster \/ Wollankstr. 19 \"(stadtplan_link)Stadtplan\":http:\/\/www.berlin.de\/stadtplan\/?ADR_ZIP=13187&ADR_STREET=Wollankstr.%2019  \/ 13187 Berlin (Pankow) \/ Tel.: 030\/ 48 83 96 - 0\/ 30 \/ Fax: 030\/ 48 83 96 44",
+        "adresse": "Wollankstr. 19",
+        "plz": "13187",
+        "bezirk": "Pankow"
+      }
+    }
+  }]
+}
