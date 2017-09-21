@@ -6,10 +6,11 @@ Experimenting with OpenStreetMap and Open Data.
 
 - Verschenken statt Wegwerfen with
   [OpenLayers](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_openlayers/) or
-  [Leaflet](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_leaflet/).
-  Data from [Berlin Open Data](http://daten.berlin.de/datensaetze/verschenken-statt-wegwerfen)
+  [Leaflet](https://dmarcoux.github.io/osm/verschenken_statt_wegwerfen_leaflet/)
+  from [Berlin Open Data](http://daten.berlin.de/datensaetze/verschenken-statt-wegwerfen)
 - [Berliner
   Weihnachtsmärkte](https://dmarcoux.github.io/osm/berliner_weihnachtsmaerkte/)
+  from [Berlin Open Data](https://daten.berlin.de/datensaetze/berliner-weihnachtsm%C3%A4rkte-0)
 
 ### Development
 
